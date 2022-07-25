@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doristech
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Back end development
+- 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on Front end projects
 - 📫 How to reach me ikpeamachiamaka3@gmail.com
 
