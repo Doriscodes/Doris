@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Doristech
+- 👋 Hi, I’m Doris
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on Front end projects
