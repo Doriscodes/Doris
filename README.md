@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Doris
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking to collaborate on Front end projects
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me ikpeamachiamaka3@gmail.com
 
 <!---
